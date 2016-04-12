@@ -1,1 +1,2 @@
  File3 Working In Master 
+ Set New bug fixes  In File3.txt Hot Fixes Branch 
